@@ -1,4 +1,4 @@
-**Nome:** Lucas Santejo dos Santos
+**Nome:**
 
 # Atividade Banco de dados Adults
 Para a tarefa de **PCS5024** foi instalado o banco de dados **Adults** onde foi feita  a análise das fetures e desenvolvimento de 3 classificadores, kNN, Regressão Logística e Redes Neurais Artificiais
